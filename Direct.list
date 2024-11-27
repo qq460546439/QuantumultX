@@ -12,6 +12,7 @@ DOMAIN,audio.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,receiptcheck.quantumult.app
 DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,music.apple.com
@@ -79,9 +80,6 @@ DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-KEYWORD,smp-device
-DOMAIN-KEYWORD,testflight
-DOMAIN-KEYWORD,apple
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -39897,5 +39895,4 @@ DOMAIN-SUFFIX,hyb2b.com
 DOMAIN-SUFFIX,hybase.com
 DOMAIN-SUFFIX,hybbtree.com
 DOMAIN-SUFFIX,hybg84417227.com
-DOMAIN-SUFFIX,hycdn.com
-DOMAIN-SUFFIX,hycfw.
+DOMAIN-SU
