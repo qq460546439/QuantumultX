@@ -1,5 +1,5 @@
-DOMAIN,receiptcheck.quantumult.app
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,joyuyx.com
@@ -90590,6 +90590,7 @@ DOMAIN-SUFFIX,dcn01.ps5.update.playstation.net
 DOMAIN-SUFFIX,dcn01.ps4.update.playstation.net
 DOMAIN-SUFFIX,gs2.ww.prod.dl.playstation.net
 DOMAIN-SUFFIX,gs.ww.np.dl.playstation.net
+DOMAIN,receiptcheck.quantumult.app
 USER-AGENT,*FindMyiPhone?
 USER-AGENT,*Music?
 USER-AGENT,*WeatherFoundation*
