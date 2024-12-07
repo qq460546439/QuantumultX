@@ -22,5 +22,7 @@ DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttwstatic.com
 USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
