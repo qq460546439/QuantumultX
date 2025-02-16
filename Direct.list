@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-KEYWORD,.tmall.com
+DOMAIN-SUFFIX,tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
